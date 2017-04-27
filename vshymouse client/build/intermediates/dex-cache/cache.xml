@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\vshymouse\vshymouse client\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        jar="D:\vshymouse\vshymouse client\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\vshymouse\vshymouse client\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_10e3a84f4fb6708194b30a44123bd116c742a17c.jar" />
+    </item>
+    <item
+        jar="G:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\vshymouse\vshymouse client\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1_7761c3a90bc86e24dffe707631f2ebab6a114f1f.jar" />
+    </item>
+    <item
+        jar="D:\vshymouse\vshymouse client\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\vshymouse\vshymouse client\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_ec491f6a4fc6dedabbdabfa49381e86eefbdb9f1.jar" />
+    </item>
+    <item
+        jar="D:\vshymouse\vshymouse client\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\vshymouse\vshymouse client\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.1_36a8883bb2462567d5d278251f892405bdc1df7a.jar" />
+    </item>
+
+</items>
